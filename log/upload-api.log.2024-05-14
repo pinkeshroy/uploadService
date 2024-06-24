@@ -1,0 +1,842 @@
+[upload-api-1.0.0.undefined May-14-2024 17:36:38 [32minfo[39m] Master process 29336 is running
+[upload-api-1.0.0.undefined May-14-2024 17:36:44 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:36:44 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:36:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:36:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:36:49 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:36:49 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:36:52 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:36:52 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:04 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:04 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:16 [31merror[39m] Worker process 10876 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 17:37:17 [32minfo[39m] Master process 32764 is running
+[upload-api-1.0.0.undefined May-14-2024 17:37:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 17:37:19 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 17:44:01 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 18:00:26 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 18:20:47 [31merror[39m] Worker process 11020 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 18:21:52 [32minfo[39m] Master process 13320 is running
+[upload-api-1.0.0.undefined May-14-2024 18:54:06 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:06 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:07 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:07 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:20 [31merror[39m] Worker process 7596 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 18:54:20 [31merror[39m] Worker process 6284 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 18:54:20 [31merror[39m] Worker process 11796 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 18:54:21 [32minfo[39m] Master process 31212 is running
+[upload-api-1.0.0.undefined May-14-2024 18:54:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 18:54:24 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 18:55:29 [32minfo[39m] Received GET /data?test=2
+[upload-api-1.0.0.undefined May-14-2024 19:00:14 [31merror[39m] Worker process 13436 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:00:14 [31merror[39m] Worker process 3956 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:00:14 [31merror[39m] Worker process 5692 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:00:15 [32minfo[39m] Master process 19296 is running
+[upload-api-1.0.0.undefined May-14-2024 19:00:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:17 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:17 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:00:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:31 [32minfo[39m] Master process 29184 is running
+[upload-api-1.0.0.undefined May-14-2024 19:02:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:34 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [31merror[39m] Worker process 18360 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [31merror[39m] Worker process 15680 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:02:35 [31merror[39m] Worker process 17108 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:02:40 [32minfo[39m] Master process 21008 is running
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:41 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:02:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:03:57 [31merror[39m] Worker process 4500 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:03:57 [31merror[39m] Worker process 5872 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:03:59 [32minfo[39m] Master process 1828 is running
+[upload-api-1.0.0.undefined May-14-2024 19:04:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:04:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:04:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:00 [31merror[39m] Worker process 13868 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:06:00 [31merror[39m] Worker process 29532 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:06:00 [31merror[39m] Worker process 15404 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:06:04 [32minfo[39m] Master process 16488 is running
+[upload-api-1.0.0.undefined May-14-2024 19:06:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [31merror[39m] Worker process 7596 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:06:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:42 [32minfo[39m] Master process 20268 is running
+[upload-api-1.0.0.undefined May-14-2024 19:06:44 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:44 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:44 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:06:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 15112 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 14664 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 28244 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 19172 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 15196 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:06 [31merror[39m] Worker process 11412 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:07:11 [32minfo[39m] Master process 14684 is running
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:12 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:07:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:08:32 [31merror[39m] Worker process 32216 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:08:32 [31merror[39m] Worker process 27460 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 19:09:45 [32minfo[39m] Master process 18248 is running
+[upload-api-1.0.0.undefined May-14-2024 19:09:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 19:09:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 19:09:54 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 19:10:03 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 19:10:07 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 21:37:58 [32minfo[39m] Master process 23420 is running
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [31merror[39m] Worker process 5444 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:38:11 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:15 [32minfo[39m] Master process 22412 is running
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:17 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:38:18 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:38:35 [32minfo[39m] Received GET /data
+[upload-api-1.0.0.undefined May-14-2024 21:46:44 [32minfo[39m] Master process 27120 is running
+[upload-api-1.0.0.undefined May-14-2024 21:46:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:46 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:46 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:46 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:46:47 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:50:16 [31merror[39m] Worker process 18620 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:50:37 [32minfo[39m] Master process 9788 is running
+[upload-api-1.0.0.undefined May-14-2024 21:50:45 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:45 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [31merror[39m] Worker process 19068 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [31merror[39m] Worker process 30144 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [31merror[39m] Worker process 30732 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:50:50 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:36 [32minfo[39m] Master process 29348 is running
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:57:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:44 [31merror[39m] Worker process 7272 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:58:45 [32minfo[39m] Master process 30536 is running
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:58:48 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:27 [31merror[39m] Worker process 13080 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:59:27 [31merror[39m] Worker process 13864 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:59:27 [31merror[39m] Worker process 28724 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:59:27 [31merror[39m] Worker process 11032 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 21:59:31 [32minfo[39m] Master process 23108 is running
+[upload-api-1.0.0.undefined May-14-2024 21:59:32 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:32 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:32 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:32 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 21:59:33 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:53 [31merror[39m] Worker process 18600 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:02:53 [31merror[39m] Worker process 3536 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:02:53 [31merror[39m] Worker process 26636 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:02:54 [32minfo[39m] Master process 29716 is running
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:56 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:57 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:57 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:02:57 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:02:57 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:05:46 [31merror[39m] Worker process 8284 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:05:46 [31merror[39m] Worker process 18112 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:05:46 [31merror[39m] Worker process 32736 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:05:46 [31merror[39m] Worker process 25840 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:06:36 [32minfo[39m] Master process 20640 is running
+[upload-api-1.0.0.undefined May-14-2024 22:06:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:06:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 7476 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 22824 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 13824 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 11184 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 27540 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:57 [31merror[39m] Worker process 2012 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:10:58 [32minfo[39m] Master process 28548 is running
+[upload-api-1.0.0.undefined May-14-2024 22:11:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:11:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:12:57 [31merror[39m] Worker process 28648 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:12:58 [32minfo[39m] Master process 28468 is running
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:13:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:11 [31merror[39m] Worker process 12548 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:14:11 [31merror[39m] Worker process 30140 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:14:11 [31merror[39m] Worker process 18892 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:14:13 [32minfo[39m] Master process 26064 is running
+[upload-api-1.0.0.undefined May-14-2024 22:14:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:14:16 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:34 [31merror[39m] Worker process 30312 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:16:36 [32minfo[39m] Master process 31012 is running
+[upload-api-1.0.0.undefined May-14-2024 22:16:37 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:37 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:37 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:37 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:38 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:16:39 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:16:39 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:18:57 [31merror[39m] Worker process 19352 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:18:57 [31merror[39m] Worker process 26484 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:18:57 [31merror[39m] Worker process 15980 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:18:59 [32minfo[39m] Master process 24236 is running
+[upload-api-1.0.0.undefined May-14-2024 22:19:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:00 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:00 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:01 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:06 [31merror[39m] Worker process 20984 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:19:06 [31merror[39m] Worker process 21568 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:19:06 [31merror[39m] Worker process 16388 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:19:06 [31merror[39m] Worker process 12500 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:19:06 [31merror[39m] Worker process 27084 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 22:19:07 [32minfo[39m] Master process 2964 is running
+[upload-api-1.0.0.undefined May-14-2024 22:19:09 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:09 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:09 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:09 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 22:19:10 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:16 [31merror[39m] Worker process 21396 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:03:18 [32minfo[39m] Master process 3012 is running
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:03:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:00 [32minfo[39m] Master process 6492 is running
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:02 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:03 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:29:04 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:37 [31merror[39m] Worker process 31536 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:31:37 [31merror[39m] Worker process 12016 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:31:37 [31merror[39m] Worker process 10520 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:31:37 [31merror[39m] Worker process 6852 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:31:38 [32minfo[39m] Master process 29232 is running
+[upload-api-1.0.0.undefined May-14-2024 23:31:40 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:40 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:40 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:40 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:41 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:41 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:42 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:31:43 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:31:43 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:09 [31merror[39m] Worker process 27036 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:41:09 [31merror[39m] Worker process 12836 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:41:11 [32minfo[39m] Master process 2528 is running
+[upload-api-1.0.0.undefined May-14-2024 23:41:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:13 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:13 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:13 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:14 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:41:15 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:18 [31merror[39m] Worker process 7048 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:49:18 [31merror[39m] Worker process 31524 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:49:18 [31merror[39m] Worker process 4880 died. Restarting...
+[upload-api-1.0.0.undefined May-14-2024 23:49:19 [32minfo[39m] Master process 2504 is running
+[upload-api-1.0.0.undefined May-14-2024 23:49:21 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:22 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Data upload started
+[upload-api-1.0.0.undefined May-14-2024 23:49:23 [32minfo[39m] Listening on default port
